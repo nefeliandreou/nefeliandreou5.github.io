@@ -25,7 +25,7 @@ organizations:
     url: https://www.amazon.science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an Applied Scientist specializing in Generative AI, Multimodal Learning, and techniques for bridging the gap between 2D and 3D to advance the development of Virtual Humans. I am a Marie Skłodowska-Curie Early Stage Researcher as part of the [ITN-CLIPE](https://www.clipe-itn.eu/) roject, and a PhD candidate at the [University of Cyprus](http://www.cs.ucy.ac.cy/), under the supervision of Professor [Yiorgos Chrysanthou (https://www.cs.ucy.ac.cy/~yiorgos/). I've had the opportunity to collaborate with leading institutions such as Amazon, École Polytechnique, and theMax-Planck Institute for Intelligent Systems.My background includes an MSc in Data Science and BSc in Mathematics from the [University of Bath](https://www.bath.ac.uk/). 
+bio: I'm an Applied Scientist specializing in Generative AI, Multimodal Learning, and techniques for bridging the gap between 2D and 3D to advance the development of Virtual Humans. 
 
 # Interests to show in About widget
 interests:
@@ -51,14 +51,14 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Virtual Humans
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -66,19 +66,19 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Python
         description: ''
         percent: 100
-        icon: cat
+        icon: person-hiking
+        icon_pack: fas
+      - name: Dogs
+        description: ''
+        percent: 100
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an Applied Scientist specializing in Generative AI, Multimodal Learning, and techniques for bridging the gap between 2D and 3D to advance the development of Virtual Humans. I am a Marie Skłodowska-Curie Early Stage Researcher as part of the [ITN-CLIPE](https://www.clipe-itn.eu/) roject, and a PhD candidate at the [University of Cyprus](http://www.cs.ucy.ac.cy/), under the supervision of Professor [Yiorgos Chrysanthou (https://www.cs.ucy.ac.cy/~yiorgos/). I've had the opportunity to collaborate with leading institutions such as Amazon, École Polytechnique, and theMax-Planck Institute for Intelligent Systems.My background includes an MSc in Data Science and BSc in Mathematics from the [University of Bath](https://www.bath.ac.uk/). 
 {style="text-align: justify;"}
