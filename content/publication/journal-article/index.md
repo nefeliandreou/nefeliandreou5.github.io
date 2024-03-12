@@ -2,7 +2,8 @@
 title: "An example journal article"
 authors:
 - admin
-- Andreou, Nefeli and Aristidou, Andreas and Chrysanthou, Yiorgos
+- Aristidou, Andreas
+- Chrysanthou, Yiorgos
 author_notes:
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
