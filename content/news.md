@@ -15,4 +15,4 @@ caption = ""
 
 +++
 
-{{< readfromfile "/content/newslist.dat" 1000 >}} 
+{{< layouts/shortcodes/readfromfile "/content/newslist.dat" 1000 >}} 
